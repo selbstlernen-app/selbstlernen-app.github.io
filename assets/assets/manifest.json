@@ -1,7 +1,7 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
-  "description": "A super tagline for the mobile app",
+  "name": "Selbstlernen.app",
+  "short_name": "Selbstlernen.app",
+  "description": "Erreiche deine Lernziele - Selbstreguliert. Selbstständig. Selbstbestimmt.",
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
